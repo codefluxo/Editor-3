@@ -9,3 +9,7 @@
 - Basic object manipulation (translate, rotate, scale).
 - Real-time scene updates.
 
+## Screenshots
+
+![Alt text](public/screenshot2.png)
+![Alt text](public/screenshot1.png)
