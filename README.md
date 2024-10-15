@@ -5,8 +5,9 @@
 
 ## Screenshots
 
-![Alt text](public/screenshot2.png)
-![Alt text](public/screenshot1.png)
+<kbd>![Alt text](public/screenshot2.png)</kbd>
+
+<kbd>![Alt text](public/screenshot1.png)</kbd>
 
 ## Features
 
